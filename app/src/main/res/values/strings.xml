@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text_Scanner</string>
+    <string name="camera">Open Camera</string>
+    <string name="gallery">Open Gallery</string>
+    <string name="capture">Capture Again</string>
+    <string name="scan">Scan Text</string>
+    <string name="save">Save Text</string>
+    <string name="share">Share Via Mail</string>
+</resources>

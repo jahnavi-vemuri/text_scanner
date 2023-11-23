@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042270110852",
+    "project_id": "text-recognition-958fb",
+    "storage_bucket": "text-recognition-958fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042270110852:android:b0edd81154f5d6a30b2ed1",
+        "android_client_info": {
+          "package_name": "com.example.text_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDPDbF95lj-goUCQhvunsrGFCF7CumiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
